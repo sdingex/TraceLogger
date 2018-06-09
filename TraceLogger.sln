@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TraceLogger", "Logger\Logger.vcxproj", "{1272770F-EE5B-4DE8-9DCE-52F71F9194C5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestLogger", "TestLogger\TestLogger.vcxproj", "{697785B1-88C5-4571-B13B-2D58846EB5F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1272770F-EE5B-4DE8-9DCE-52F71F9194C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1272770F-EE5B-4DE8-9DCE-52F71F9194C5}.Debug|Win32.Build.0 = Debug|Win32
+		{1272770F-EE5B-4DE8-9DCE-52F71F9194C5}.Release|Win32.ActiveCfg = Release|Win32
+		{1272770F-EE5B-4DE8-9DCE-52F71F9194C5}.Release|Win32.Build.0 = Release|Win32
+		{697785B1-88C5-4571-B13B-2D58846EB5F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{697785B1-88C5-4571-B13B-2D58846EB5F6}.Debug|Win32.Build.0 = Debug|Win32
+		{697785B1-88C5-4571-B13B-2D58846EB5F6}.Release|Win32.ActiveCfg = Release|Win32
+		{697785B1-88C5-4571-B13B-2D58846EB5F6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
